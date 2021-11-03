@@ -19,6 +19,7 @@ header .h1 {
     padding: 15px 20px;
     text-align: center;
     position: relative;
+    margin: 20px auto;
 }
 
 .player {
@@ -30,11 +31,13 @@ header .h1 {
 #user {
     position: absolute;
     top: 30px;
+    left: 480px;
 }
 
 #computer {
     position: absolute;
     top: 30px;
+    right: 480px;
 }
 
 .move-description {
