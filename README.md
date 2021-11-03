@@ -1,1 +1,1 @@
-# D-a-de-los-Muertos-RPS-Game
+# Dia-de-los-Muertos-RPS-Game
